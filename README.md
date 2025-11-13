@@ -33,7 +33,7 @@ it will show there is nothing to be added
 * cls
 open new windown in command prompt
 
-* git push -m "This is first commit"
+* git commit -m "This is first commit"
 this will staged the files in the repo history
 
 * git branch
