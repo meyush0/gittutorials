@@ -1,4 +1,4 @@
-## This is videly used Version colntrol.
+## This is videly used Version control.
 
 this is first iteration to the githum repo first downloaded the git
 then opend CMD:-  git --version
