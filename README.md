@@ -58,3 +58,6 @@ gives you origin and the repo link
 
 * git push origin main
 push the reo the github
+
+* git restore README.md
+it will restore the 
