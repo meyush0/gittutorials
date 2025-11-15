@@ -73,3 +73,9 @@ it will give you details of the repo before the changing(this give status after 
 
 * git clone "cloning link"
 close the repo to the specific folder
+
+* git branch developer
+create the new branch 
+
+* git checkout developer
+switch the branch to developer
