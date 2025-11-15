@@ -61,3 +61,15 @@ push the reo the github
 
 * git restore README.md
 it will restore the 
+
+* git reset [file name]
+it will reset the file and unstage that file 
+
+* git diff
+it will return you what is changed but not staged (this give before adding)
+
+* git diff --staged
+it will give you details of the repo before the changing(this give status after adding)
+
+* git clone "cloning link"
+close the repo to the specific folder
