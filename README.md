@@ -78,4 +78,9 @@ close the repo to the specific folder
 create the new branch 
 
 * git checkout developer
-switch the branch to developer
+switch the branch to developer or new branch
+
+- > first check out to the main branch then
+* git merge developer
+merge the main to the development tree
+
