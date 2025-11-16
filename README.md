@@ -40,7 +40,7 @@ this will staged the files in the repo history
 this wil show you the braches avilable in the repo
 
 * git branch -M main
-change the master ---> main branch
+change the master ---> main branch(Rename)
 
 * git branch
 you can view the new branch
@@ -84,3 +84,15 @@ switch the branch to developer or new branch
 * git merge developer
 merge the main to the development tree
 
+* git log
+gives you all the commits you done
+
+* git log -p -3
+this will gives you last 3 commits
+
+* for merging and confilict resolution if two developers working on some differen story and where the dev A merged back to main code but when the dev B trying
+to merged back it will pop and error named there is some conflict which you have to solve this manually 
+
+* after merging back the developer branch 
+
+* git pull (make sure to solve all the conflicts manually carefully)
